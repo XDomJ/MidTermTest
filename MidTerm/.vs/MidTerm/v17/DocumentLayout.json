@@ -5,6 +5,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{5A8BD141-6B04-4880-9B1F-DC85BAD304CE}|MidTerm.csproj|c:\\users\\black\\documents\\cs162n\\midterm\\midterm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A8BD141-6B04-4880-9B1F-DC85BAD304CE}|MidTerm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F868C77F-15FC-4AF5-9B3C-7244868A5BD2}|..\\MidTermQ2\\MidTermQ2.csproj|c:\\users\\black\\documents\\cs162n\\midterm\\midtermq2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +17,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\black\\Documents\\CS162N\\Midterm\\MidTermQ2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MidTermQ2\\Program.cs",
+              "ToolTip": "C:\\Users\\black\\Documents\\CS162N\\Midterm\\MidTermQ2\\Program.cs",
+              "RelativeToolTip": "..\\MidTermQ2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T05:10:28.561Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +40,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\black\\Documents\\CS162N\\Midterm\\MidTerm\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T04:43:48.226Z",
               "EditorCaption": ""
