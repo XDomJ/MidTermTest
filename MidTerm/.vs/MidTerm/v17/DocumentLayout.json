@@ -3,10 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\black\\Documents\\CS162N\\Midterm\\MidTerm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53A9B9D2-EBCD-4132-8965-C0BA6FD34F6B}|..\\MidTermQ3\\MidTermQ3.csproj|c:\\users\\black\\documents\\cs162n\\midterm\\midtermq3\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53A9B9D2-EBCD-4132-8965-C0BA6FD34F6B}|..\\MidTermQ3\\MidTermQ3.csproj|c:\\users\\black\\documents\\cs162n\\midterm\\midtermq3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53A9B9D2-EBCD-4132-8965-C0BA6FD34F6B}|..\\MidTermQ3\\MidTermQ3.csproj|c:\\users\\black\\documents\\cs162n\\midterm\\midtermq3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53A9B9D2-EBCD-4132-8965-C0BA6FD34F6B}|..\\MidTermQ3\\MidTermQ3.csproj|c:\\users\\black\\documents\\cs162n\\midterm\\midtermq3\\professorclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F868C77F-15FC-4AF5-9B3C-7244868A5BD2}|..\\MidTermQ2\\MidTermQ2.csproj|c:\\users\\black\\documents\\cs162n\\midterm\\midtermq2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -23,30 +23,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\black\\Documents\\CS162N\\Midterm\\MidTermQ3\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\MidTermQ3\\Class1.cs",
-              "ToolTip": "C:\\Users\\black\\Documents\\CS162N\\Midterm\\MidTermQ3\\Class1.cs",
-              "RelativeToolTip": "..\\MidTermQ3\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "DocumentIndex": 1,
+              "Title": "ProfessorClass.cs",
+              "DocumentMoniker": "C:\\Users\\black\\Documents\\CS162N\\Midterm\\MidTermQ3\\ProfessorClass.cs",
+              "RelativeDocumentMoniker": "..\\MidTermQ3\\ProfessorClass.cs",
+              "ToolTip": "C:\\Users\\black\\Documents\\CS162N\\Midterm\\MidTermQ3\\ProfessorClass.cs",
+              "RelativeToolTip": "..\\MidTermQ3\\ProfessorClass.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA6wBIAAABzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T05:49:44.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\black\\Documents\\CS162N\\Midterm\\MidTermQ3\\Program.cs",
               "RelativeDocumentMoniker": "..\\MidTermQ3\\Program.cs",
               "ToolTip": "C:\\Users\\black\\Documents\\CS162N\\Midterm\\MidTermQ3\\Program.cs",
               "RelativeToolTip": "..\\MidTermQ3\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T05:48:32.186Z",
               "EditorCaption": ""
@@ -61,8 +61,7 @@
               "RelativeToolTip": "..\\MidTermQ2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T05:10:28.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T05:10:28.561Z"
             },
             {
               "$type": "Document",
@@ -74,8 +73,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T04:43:48.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T04:43:48.226Z"
             }
           ]
         }

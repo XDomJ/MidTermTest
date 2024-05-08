@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MidTermQ3/1.0.0": {
+        "runtime": {
+          "MidTermQ3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MidTermQ3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
