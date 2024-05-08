@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MidTermQ2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+956ed3b93628a8220493c6b25f76c35eced9bac4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2417a72c58fa17dedb3b4a92995f3d27cd7f994")]
 [assembly: System.Reflection.AssemblyProductAttribute("MidTermQ2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MidTermQ2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

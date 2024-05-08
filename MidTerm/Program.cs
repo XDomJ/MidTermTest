@@ -26,10 +26,10 @@ namespace ExamQ1
             
             for (int i =0; i < inputArray.Length;i++)
             {
-                if (inputArray[i]  == "my")
+                if (inputArray[i].ToLower()  == "my")
                 {
                     response += (" Tell me more about your " + inputArray[i+1] + " ");                    
-                }else if (inputArray[i] == "love" || inputArray[i] == "hate")
+                }else if (inputArray[i].ToLower() == "love" || inputArray[i].ToLower() == "hate")
                 {
                     response += " You have strong feelings about that! ";                    
                 }

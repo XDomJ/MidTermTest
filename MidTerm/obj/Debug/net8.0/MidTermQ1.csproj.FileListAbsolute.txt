@@ -1,0 +1,15 @@
+C:\Users\black\Documents\CS162N\Midterm\MidTerm\bin\Debug\net8.0\MidTermQ1.exe
+C:\Users\black\Documents\CS162N\Midterm\MidTerm\bin\Debug\net8.0\MidTermQ1.deps.json
+C:\Users\black\Documents\CS162N\Midterm\MidTerm\bin\Debug\net8.0\MidTermQ1.runtimeconfig.json
+C:\Users\black\Documents\CS162N\Midterm\MidTerm\bin\Debug\net8.0\MidTermQ1.dll
+C:\Users\black\Documents\CS162N\Midterm\MidTerm\bin\Debug\net8.0\MidTermQ1.pdb
+C:\Users\black\Documents\CS162N\Midterm\MidTerm\obj\Debug\net8.0\MidTermQ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\black\Documents\CS162N\Midterm\MidTerm\obj\Debug\net8.0\MidTermQ1.AssemblyInfoInputs.cache
+C:\Users\black\Documents\CS162N\Midterm\MidTerm\obj\Debug\net8.0\MidTermQ1.AssemblyInfo.cs
+C:\Users\black\Documents\CS162N\Midterm\MidTerm\obj\Debug\net8.0\MidTermQ1.csproj.CoreCompileInputs.cache
+C:\Users\black\Documents\CS162N\Midterm\MidTerm\obj\Debug\net8.0\MidTermQ1.sourcelink.json
+C:\Users\black\Documents\CS162N\Midterm\MidTerm\obj\Debug\net8.0\MidTermQ1.dll
+C:\Users\black\Documents\CS162N\Midterm\MidTerm\obj\Debug\net8.0\refint\MidTermQ1.dll
+C:\Users\black\Documents\CS162N\Midterm\MidTerm\obj\Debug\net8.0\MidTermQ1.pdb
+C:\Users\black\Documents\CS162N\Midterm\MidTerm\obj\Debug\net8.0\MidTermQ1.genruntimeconfig.cache
+C:\Users\black\Documents\CS162N\Midterm\MidTerm\obj\Debug\net8.0\ref\MidTermQ1.dll
